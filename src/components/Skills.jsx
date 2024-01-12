@@ -14,7 +14,7 @@ const Skills = () => {
     <div className="px-4 mt-6">
       <Heading className="text-center ">My Skills</Heading>
       <div className="flex items-center justify-center py-4">
-        <div className="bg-baseColor w-1 h-[460px]" />
+        <div className="bg-baseColor w-1 h-[484px]" />
         <div className="flex flex-col gap-2 h-full justify-between">
           <SkillList
             w="w-[60vw]"
