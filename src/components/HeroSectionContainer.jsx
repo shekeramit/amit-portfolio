@@ -27,8 +27,8 @@ const HeroSectionContainer = ({
             basecolor
             className="text-white"
             target="_blank"
-            download="/assets/AmitResume.pdf"
-            link="/assets/AmitResume.pdf"
+            download="/assets/PortResume.pdf"
+            link="/assets/PortResume.pdf"
           >
             Download CV
           </Button>
